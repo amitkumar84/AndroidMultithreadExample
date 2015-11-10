@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/pre-dexed/debug/classes-d9ebc056fc9d08cc8c38b046bb70df1765d6cd9a.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-3e79ca5fe3ddbd563c9c37739969013ceb1ca8e4.jar" />
+    </item>
+    <item
+        jar="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/pre-dexed/debug/classes-2338534ed0a2b1a3ad542bdafe93a2ff9468d43b.jar" />
+    </item>
+    <item
+        jar="/home/amit/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-59f681689827b244dc67ccdf35883c6e578dc0b7.jar" />
+    </item>
+    <item
+        jar="/home/amit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/amit/AndStdioProjects/AndroidMultithreadExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-0cc34363197b065bb2ad0bd489393e2d501610a0.jar" />
+    </item>
+
+</items>
